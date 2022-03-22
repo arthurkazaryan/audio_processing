@@ -10,7 +10,7 @@ class PathsData(object):
         if not self.yt_folder.is_dir():
             self.yt_folder.mkdir(parents=True, exist_ok=True)
         if not self.processed_folder.is_dir():
-            self.yt_folder.mkdir(parents=True, exist_ok=True)
+            self.processed_folder.mkdir(parents=True, exist_ok=True)
 
 
 paths_data = PathsData()
