@@ -1,0 +1,8 @@
+librosa
+noisereduce
+numpy
+scipy
+pytube
+pydub
+git+https://github.com/pyannote/pyannote-audio/archive/develop.zip
+speechbrain

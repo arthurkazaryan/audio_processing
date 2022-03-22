@@ -1,3 +1,6 @@
+yt_download/
+processed_audio/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
